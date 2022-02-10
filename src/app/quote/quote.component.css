@@ -1,0 +1,9 @@
+.quote-component{
+    background-color:rgb(128, 0, 17) ;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul{
+    list-style: none;
+}
